@@ -67,11 +67,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
 <details>
-  <summary>About Me</summary>
+  <summary>About Me 👋</summary>
+  Hey there! I'm Jaxon. While I prefer backend development, I also have experience with full-stack development. I love working on a variety of projects, from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing beats, hanging out with friends, or diving into new ideas. Feel free to check out my projects or connect with me! 🤝 😎
 </details>
--->
 
 <!--
 #
