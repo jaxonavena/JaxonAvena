@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Jaxon Avena.
 
 <!--
 **jaxonavena/JaxonAvena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaxonavena&theme=dark&hide_border=true&ring=29AAEE&currStreakLabel=EEFEFF)](https://git.io/streak-stats)
+
+<details>
+  <summary>About Me</summary>
+</details>
