@@ -6,7 +6,7 @@
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=&logo=person-add&logoColor=white"/></a>
   <a href="https://devpost.com/jaxonavena?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img alt="Devpost" title="Devpost" src="https://img.shields.io/badge/Devpost-488207?style=for-the-badge&logo=devpost&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/planetjaxbeats">
+  <a href="https://www.youtube.com/@PlanetJaxBeats">
     <img alt="youtube views" title="YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0yYApt8xUN6l4FwnLLoirA?color=%23E05D44&label=VIEWS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
 </p>
 
