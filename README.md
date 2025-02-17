@@ -27,8 +27,8 @@
 <img align="left" alt="Godot" title="Godot 4" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/godot/godot-original.svg" />
 <img align="left" alt="VSCode" title="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
 <br />
+<br />
 
-#
 
 #### ⚙️ Familiar With
 
@@ -41,8 +41,8 @@
 <img align="left" alt="mySQL" title="mySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
 <br />
+<br />
 
-#
 
 #### 🧪 Currently Learning
 
@@ -51,6 +51,8 @@
 <img align="left" alt="ViteJS" title="ViteJS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <br />
+<br />
+
 
 #
 
