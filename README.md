@@ -2,7 +2,7 @@
 **`💻 Developer / 🧠 Student / 🥷 Martial Artist / 🎧 Producer`**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jaxonavena/" target="_blank">
+  <a href="https://www.linkedin.com/in/jaxonavena/">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=&logo=person-add&logoColor=white"/></a>
   <a href="https://devpost.com/jaxonavena?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img alt="Devpost" title="Devpost" src="https://img.shields.io/badge/Devpost-488207?style=for-the-badge&logo=devpost&logoColor=white"/></a>
