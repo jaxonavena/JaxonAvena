@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jaxonavena)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jaxonavena&theme=dark&hide_border=true&ring=29AAEE&currStreakLabel=EEFEFF)](https://git.io/streak-stats)
