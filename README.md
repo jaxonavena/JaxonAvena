@@ -72,12 +72,10 @@ Here are some ideas to get you started:
   Hey there! I'm Jaxon. While I prefer backend development, I also have experience with full-stack development. I love working on a variety of projects, from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing beats, hanging out with friends, or diving into new ideas. Feel free to check out my projects or connect with me! 🤝 😎
 </details>
 
-<!--
 #
 
 ##### 📫 Contact Me
 
-<a href="mailto:<email>">
+<a href="mailto:jaxonavena@gmail.com">
   <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" />
 </a>
--->
