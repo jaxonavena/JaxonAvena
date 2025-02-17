@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 -->
 
 <details>
-  <summary>About Me 👋</summary>
-  Hey there! I'm Jaxon. While I prefer backend development, I also have experience with full-stack development. I love working on a variety of projects, from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing beats, hanging out with friends, or diving into new ideas. Feel free to check out my projects or connect with me! 🤝 😎
+  <summary>👋 About Me</summary>
+  Hey there! I'm Jaxon. I am actively seeking job opportunities in web development, cybersecurity, or related fields. I am set to graduate from The University of Kansas in May 2025 with a Bachelor's degree in Computer Science. I love working on a variety of projects, from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing beats, hanging out with friends, or diving into new ideas. Feel free to check out my projects or connect with me! 🤝 😎
 </details>
 
 #
