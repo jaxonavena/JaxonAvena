@@ -12,7 +12,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jaxonavena&theme=dark&hide_border=true&ring=29AAEE&currStreakLabel=EEFEFF)](https://git.io/streak-stats)
+[![My GitHub Streak... occasionally unreliable... check back later...](https://streak-stats.demolab.com/?user=jaxonavena&theme=dark&hide_border=true&ring=29AAEE&currStreakLabel=EEFEFF)](https://git.io/streak-stats)
 
 ## 🧰 Languages and Tools
 
