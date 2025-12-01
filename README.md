@@ -1,13 +1,11 @@
 # 🛸 Jaxon Avena
-**`💻 Developer / 🧠 Student / 🥷 Martial Artist / 🎧 Producer`**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jaxonavena/">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=&logo=person-add&logoColor=white"/></a>
   <a href="https://devpost.com/jaxonavena?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img alt="Devpost" title="Devpost" src="https://img.shields.io/badge/Devpost-488207?style=for-the-badge&logo=devpost&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@PlanetJaxBeats">
-    <img alt="youtube views" title="YouTube" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC0yYApt8xUN6l4FwnLLoirA?color=%23E05D44&label=VIEWS&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+  </a> 
 </p>
 
 ---
@@ -55,13 +53,7 @@
 
 <details>
   <summary>👋 About Me</summary>
-  Hi! I'm Jaxon. I'm currently preparing to graduate from The University of Kansas in May 2025 with a Bachelor's degree in Computer Science and a certificate in Cybersecurity. I love working on a variety of projects, from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing beats, or hanging out with friends. Feel free to check out my projects or connect with me! 🤝
+  Hi! I'm Jaxon. I'm graduated from The University of Kansas in May 2025 with a Bachelor's degree in Computer Science and a certificate in Cybersecurity. I love working on a variety of projects, from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing beats, or hanging out with friends. Feel free to check out my projects or connect with me! 🤝
 </details>
 
 #
-
-##### 📫 Contact Me
-
-<a href="mailto:jaxonavena@gmail.com">
-  <img src="https://img.shields.io/badge/Email-6d4aff?style=for-the-badge&logo=protonmail&logoColor=white" />
-</a>
