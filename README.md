@@ -12,10 +12,9 @@
 
 [![My GitHub Streak... occasionally unreliable... check back later...](https://streak-stats.demolab.com/?user=jaxonavena&theme=dark&hide_border=true&ring=29AAEE&currStreakLabel=EEFEFF)](https://git.io/streak-stats)
 
-## 🧰 Languages and Tools
+## 🧰 Toolbox
 
 #### 💙 Favorites
-
 <img align="left" alt="Ruby" title="Ruby" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" />
 <img align="left" alt="Ruby on Rails" title="Ruby on Rails" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
 <img align="left" alt="RSpec" title="RSpec" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-plain.svg" />
@@ -23,30 +22,47 @@
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Godot" title="Godot 4" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/godot/godot-original.svg" />
-<img align="left" alt="VSCode" title="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
+<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Svelte5" title="Svelte5" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/svelte/svelte-original.svg" />
+<img align="left" alt="Tailwind" title="Tailwind" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" />
+
+
 <br />
 <br />
 
 
 #### ⚙️ Familiar With
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="C++" title="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="mySQL" title="mySQL" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
-<br />
-<br />
-
-
-#### 🧪 Currently Learning
-
-<img align="left" alt="ReactJS" title="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="VSCode" title="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
 <img align="left" alt="ViteJS" title="ViteJS" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vitejs/vitejs-original.svg" />
+<img align="left" alt="Gitlab" title="Gitlab" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/gitlab/gitlab-original.svg" />
+<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Pycharm" title="Pycharm" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pycharm/pycharm-original.svg" />
+<img align="left" alt="Pandas" title="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pandas/pandas-original.svg" />
+<br />
+<br />
+
+
+#### 🧪 Working On
+<img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<br />
+<br />
+
+
+#### 👨‍💻 ... I've dabbled
+<img align="left" alt="ReactJS" title="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
+<img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg"/>
+<img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="Vim" title="Vim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vim/vim-original.svg"/>
+
 <br />
 
 #
@@ -56,4 +72,3 @@
   Hi! I'm Jaxon. I graduated from The University of Kansas in May 2025 with a Bachelor's degree in Computer Science and a certificate in Cybersecurity. I'm a dev for an HFT firm, but I love working on a variety of projects - from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing music, or hanging out with friends. Feel free to check out my projects or connect with me! 🤝
 </details>
 
-#
