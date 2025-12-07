@@ -53,7 +53,7 @@
 
 <details>
   <summary>👋 About Me</summary>
-  Hi! I'm Jaxon. I'm graduated from The University of Kansas in May 2025 with a Bachelor's degree in Computer Science and a certificate in Cybersecurity. I love working on a variety of projects, from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing beats, or hanging out with friends. Feel free to check out my projects or connect with me! 🤝
+  Hi! I'm Jaxon. I graduated from The University of Kansas in May 2025 with a Bachelor's degree in Computer Science and a certificate in Cybersecurity. I'm a dev for an HFT firm, but I love working on a variety of projects - from building web apps and video games to creating art like music and drawings. I'm always up for a challenge and enjoy exploring new tech and tools. When I'm not coding, you'll find me training in martial arts like Brazilian Jiu-Jitsu, wrestling, or MMA, producing music, or hanging out with friends. Feel free to check out my projects or connect with me! 🤝
 </details>
 
 #
