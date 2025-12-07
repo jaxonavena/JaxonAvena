@@ -49,6 +49,10 @@
 
 
 #### 🧪 Working On
+<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
+<img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg"/>
+<img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg"/>
+<img align="left" alt="Vim" title="Vim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vim/vim-original.svg"/>
 <img align="left" alt="NodeJS" title="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <br />
 <br />
@@ -58,11 +62,6 @@
 <img align="left" alt="ReactJS" title="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
 <img align="left" alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Bash" title="Bash" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg"/>
-<img align="left" alt="Matplotlib" title="Matplotlib" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/matplotlib/matplotlib-original.svg"/>
-<img align="left" alt="NumPy" title="NumPy" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/numpy/numpy-original.svg"/>
-<img align="left" alt="Vim" title="Vim" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vim/vim-original.svg"/>
-
 <br />
 
 #
